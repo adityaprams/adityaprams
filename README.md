@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**adityaprams/adityaprams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technology Stack 🛠️
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,py,bootstrap,tailwind,react,nextjs,redux" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,prisma,mysql,postgres,mongodb,supabase" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,gcp,azure,vercel,netlify,vite,github,postman,figma" />
+  </a>
+</div>
