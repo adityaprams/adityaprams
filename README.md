@@ -5,7 +5,7 @@ I am a Software Engineer
 ## Technology Stack 🛠️
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,py,bootstrap,tailwind,react,nextjs,redux" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,py,bootstrap,tailwind,react,nextjs,redux,materialui" />
   </a>
 </div>
 <div align="center">
